@@ -1,0 +1,3 @@
+/justin.txt
+/collins.doc
+*.ppt
